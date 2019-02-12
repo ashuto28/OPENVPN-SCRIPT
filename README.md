@@ -3,7 +3,7 @@ This scrit can be use to install openVPN
 
 First, get the script and make it executable :
 
-curl -O https://github.com/ashuto28/OPENVPN-SCRIPT/openvpn.sh
+curl -O https://github.com/ashuto28/OPENVPN-SCRIPT/blob/master/openvpn.sh
 chmod +x openvpn-install.sh
 Then run it :
 
